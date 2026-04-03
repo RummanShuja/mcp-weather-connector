@@ -83,9 +83,8 @@ Returns active weather alerts for a region.
 
 ## Demo
 
-(Add your screenshot here)
-
-![Demo Screenshot](./assets/demo.png)
+![Demo Screenshot](https://github.com/RummanShuja/mcp-weather-connector/blob/aa1d79e0fd20b225a7dea7a80fda3d3eb7221df6/assets/img1.png)
+![Demo Screenshot](https://github.com/RummanShuja/mcp-weather-connector/blob/aa1d79e0fd20b225a7dea7a80fda3d3eb7221df6/assets/img2.png)
 
 ## Notes
 
